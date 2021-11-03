@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @drouonsol, a 13 year old coder from cyprus 
+- 👀 I’m interested in intested in React,java script and html
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on Web3 develepoment
+- 📫 How to reach me drou#1441
